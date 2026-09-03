@@ -1,6 +1,6 @@
 # Genomic Variant Analysis Pipeline (Spark + GATK + ClinVar)
 
-**Repo:** [github.com/sanjay-gif245/genomic-variant-pipeline](https://github.com/sanjay-gif245/genomic-variant-pipeline)
+**Repo:** [Repo](https://github.com/Nithi7518/genomic-variant-analysis)
 **Live demo:** [genomic-variant-pipeline.streamlit.app](https://genomic-variant-pipeline.streamlit.app/) (free tier — first load may take ~20-30s to wake up)
 
 Two linked pieces of work on real public genomic data:
