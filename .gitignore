@@ -33,3 +33,6 @@ ALL.chr22.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz
 
 # Streamlit local cache
 .streamlit/secrets.toml
+
+# Local interview prep files
+Genomic_Variant_Analysis_Interview_Master_Guide.pdf
